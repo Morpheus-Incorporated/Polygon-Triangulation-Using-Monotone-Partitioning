@@ -1,3 +1,5 @@
+#EJ Added Required Header Files..
+
 #include <windows.h>
 #include <iostream>
 #include <vector>
@@ -8,11 +10,13 @@
 
 using namespace std;
 
+#EJ Created a Class Object Point..
 class Point{
 public:
     float x,y;
 };
 
+#EJ Created a Class Object Vertex..
 class Vertex{
 public:
     int index;
