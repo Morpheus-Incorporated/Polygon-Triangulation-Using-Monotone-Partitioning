@@ -4,6 +4,7 @@
 ![Forks](https://img.shields.io/github/forks/Alien-Inc/Polygon-Triangulation-Using-Monotone-Partitioning)
 ![Stars](https://img.shields.io/github/stars/Alien-Inc/Polygon-Triangulation-Using-Monotone-Partitioning)
 ![Issues](https://img.shields.io/github/issues/Alien-Inc/Polygon-Triangulation-Using-Monotone-Partitioning)
+[![Documentation Status](https://readthedocs.org/projects/polygon-triangulation-using-monotone-partitioning/badge/?version=latest)](https://polygon-triangulation-using-monotone-partitioning.readthedocs.io/en/latest/?badge=latest)
 ![License](https://img.shields.io/github/license/Alien-Inc/Polygon-Triangulation-Using-Monotone-Partitioning)
 
 ## Intro 
