@@ -1,3 +1,5 @@
+#EJ Added Required Header Files..
+
 #include<windows.h>
 #include<iostream>
 #include<vector>
@@ -265,6 +267,7 @@ void identifyVertexType(){
     }
 }
 
+#Algo Implementation to perform Monotone Partitioning..
 void monotonePartition(){
     int n=poly.size();
     identifyVertexType();
@@ -340,6 +343,7 @@ void mousePlot(int button,int state,int x,int y){
     }
 }
 
+# Main Function to Perform Monotone Partitioning on a Convex Polygon..
 int main(int argc,char **argv){
     glutInit(&argc,argv);
     glutInitDisplayMode(GLUT_SINGLE|GLUT_RGB);
