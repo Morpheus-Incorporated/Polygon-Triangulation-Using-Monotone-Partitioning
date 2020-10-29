@@ -1,11 +1,12 @@
 #EJ Added Required Header Files..
 
-#include<windows.h>
-#include<iostream>
-#include<vector>
-#include<stdlib.h>
-#include<GL/glut.h>
-#include<algorithm>
+#include <windows.h>
+#include <iostream>
+#include <vector>
+#include <stdlib.h>
+#include <GL/glut.h>
+#include <algorithm>
+
 using namespace std;
 
 class Point{
