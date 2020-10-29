@@ -14,8 +14,17 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+## Report bugs using Github's [Issues](https://github.com/Alpha-Incorporated/Data-Validation-using-Merkle-Trees/issues)
+We use GitHub issues to track public bugs. Report a bug by [Opening a new issue](https://github.com/Alpha-Incorporated/Data-Validation-using-Merkle-Trees/issues/new); it's that Easy!
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+**Great Bug Reports** tend to have:
+
+- A quick summary and/or background
+- Steps to reproduce
+  - Be specific!
+  - Give sample code if you can.
+- What you expected would happen
+- What actually happens
+- Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
+
+People *love* thorough bug reports. I'm not even kidding..
