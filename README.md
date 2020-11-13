@@ -16,7 +16,17 @@ A Triangulation Policy, developed in C++  is a project for partitioning a Concav
 
 * **Computational Geometry - Algorithms and Applications - Third Edition** - [@Mark de Berg](https://people.inf.elte.hu/fekete/algoritmusok_msc/terinfo_geom/konyvek/Computational%20Geometry%20-%20Algorithms%20and%20Applications,%203rd%20Ed.pdf)
 
+## Contribution Guidelines
+
+### Rules/Guidelines should be followed by Open Source Contributors 
+
+Refer Contributing.md file for more details and also the Contributors Code Structure should follow CODE_OF_CONDUCT Guidelines present in the CODE_OF_CONDUCT.md File..
+
 ## Authors
 
 * **Ebenezer Jesuraj** - [@EbenezerJesuraj](https://github.com/EbenezerJesuraj)
 * **Ananya Haraprasad H** - [@AnanyaHaraprasad](https://github.com/AnanyaHaraprasad)
+
+### Code Credit
+
+For Individual Code Ownability Refer CODEOWNERS File..
