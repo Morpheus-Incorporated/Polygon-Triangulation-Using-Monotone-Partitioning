@@ -1,6 +1,6 @@
 # Polygon-Triangulation-Using-Monotone-Partitioning
 
-[![CodeFactor](https://www.codefactor.io/repository/github/alien-inc/polygon-triangulation-using-monotone-partitioning/badge)](https://www.codefactor.io/repository/github/alien-inc/polygon-triangulation-using-monotone-partitioning)
+[![CodeFactor](https://www.codefactor.io/repository/github/alpha-incorporated/polygon-triangulation-using-monotone-partitioning/badge)](https://www.codefactor.io/repository/github/alpha-incorporated/polygon-triangulation-using-monotone-partitioning)
 ![Forks](https://img.shields.io/github/forks/Alien-Inc/Polygon-Triangulation-Using-Monotone-Partitioning)
 ![Stars](https://img.shields.io/github/stars/Alien-Inc/Polygon-Triangulation-Using-Monotone-Partitioning)
 ![Issues](https://img.shields.io/github/issues/Alien-Inc/Polygon-Triangulation-Using-Monotone-Partitioning)
