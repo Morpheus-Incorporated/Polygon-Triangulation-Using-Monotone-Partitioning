@@ -26,7 +26,7 @@ Refer Contributing.md file for more details and also the Contributors Code Struc
 
 Refer GitHub Wiki Pages for More Info,
 
-* **GitHub Wiki Pages** - [@EbenezerJesuraj](https://github.com/Alpha-Incorporated/Data-Validation-using-Merkle-Trees/wiki)
+* **GitHub Wiki Pages** - [@EbenezerJesuraj](https://github.com/Alpha-Incorporated/Polygon-Triangulation-Using-Monotone-Partitioning/wiki)
 
 ## Authors
 
